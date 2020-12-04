@@ -51,6 +51,8 @@ In this section, I have trained  and compared two different ensemble classifiers
 
 3. **Easy Ensemble Classifier** Printed report.
 
+![Essy_en](https://github.com/amanafzali/bootcamp_Machine-Learning/blob/main/Pictures/Easy_ensamble.PNG?raw=true)
+
 ## Ensemble Learning Conclusion
 
 - Easy Ensemble Classifier has best balanced accuracy since it is over 90%.
